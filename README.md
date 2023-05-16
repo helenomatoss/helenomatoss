@@ -6,7 +6,7 @@
   <a href="https://github.com/helenomatoss">
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenomatoss&layout=compact&langs_count=7&theme=radical"/>
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=helenomatoss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img align="right" alt="heleno" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/db/e5/80/dbe580a41b7a5264dfeed3b0e10f6d98.jpg">
+   <img align="right" alt="heleno" height="150" style="border-radius:50px;" src="https://i.imgur.com/VioYVD0.gif">
 </div>
 
 ## Tecnologias que uso no meu dia💻
