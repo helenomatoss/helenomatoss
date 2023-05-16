@@ -6,7 +6,7 @@
   <a href="https://github.com/helenomatoss">
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenomatoss&layout=compact&langs_count=7&theme=radical"/>
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=helenomatoss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img align="right" alt="heleno" height="150" style="border-radius:50px;" src="https://dinastiageek.com.br/wp-content/uploads/2017/11/magem.png">
+   <img align="right" alt="heleno" height="200" style="border-radius:50px;" src="https://dinastiageek.com.br/wp-content/uploads/2017/11/magem.png">
 </div>
 
 ## Tecnologias que uso no meu dia💻
