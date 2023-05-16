@@ -28,7 +28,6 @@
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heleno-vitor-matos-leite-993684211/)
   
-  <div>
-    ![Snake animation](https://github.com/helenomatoss/helenomatoss/blob/main/.github/workflows/cobrinha.yml)
-    </div>
+    ![Snake animation](https://github.com/helenomatoss/helenomatoss/blob/output/github-contribution-grid-snake.svg)
+   
 
