@@ -1,6 +1,6 @@
 ## Olá! eu sou o Heleno 👋🤖
 * Formado no Curso Técnico de Informatica no CEAP📚
-* Cursando BSI - Sistema de Informação no SENAC📚
+* Cursando ADS - Análise e desenvolvimento de sistema na FMU📚
 
 <div align="center">
   <a href="https://github.com/helenomatoss">
