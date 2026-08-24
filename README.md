@@ -1,7 +1,11 @@
-## Hi there! I'm Heleno 👋🤖  
-* Graduated in Computer Technician at CEAP 📚  
-* Currently studying Systems Analysis and Development (ADS) at FMU 📚  
-* Intermediate English level – currently living in Dublin 🇮🇪  
+### Hi there! I'm Heleno 👋🤖
+
+- 💻 Front-End/Full-Stack Developer (React, Vue.js, Node.js, TypeScript, Next.js)
+- 🚀 Co-founder at WebGest Solutions
+- 🎓 Studying BSc (Hons) in Computing at Dorset College Dublin
+- 📚 Graduated in Systems Analysis and Development (ADS) at FMU
+- 🇮🇪 Living in Dublin, Ireland
+
 
 <div align="center">
   <a href="https://github.com/helenomatoss">
