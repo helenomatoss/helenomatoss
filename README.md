@@ -66,10 +66,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=helenomatoss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenomatoss&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
+  <img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=helenomatoss&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helenomatoss/helenomatoss/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helenomatoss/helenomatoss/output/github-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/helenomatoss/helenomatoss/output/github-snake.svg"/>
+  </picture>
 </p>
