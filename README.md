@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer · React · TypeScript · Node.js · Vue.js</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/heleno-vitor-matos-leite-993684211/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/helenomatos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:helenovitor15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://heleno-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <img src="https://img.shields.io/badge/📍_Dublin,_Ireland-1F2937?style=for-the-badge" alt="Dublin, Ireland"/>
@@ -12,12 +12,12 @@
 
 ## 🧑‍💻 About me
 
-- 💻 Full-Stack Developer with a front-end focus
+- 💻 Full-Stack Developer: React, Vue.js, TypeScript and Node.js, plus Docker, PostgreSQL and n8n for automation
 - 🚀 Co-founder at **WebGest Solutions**
-- 🎓 Studying **BSc (Hons) in Computing** at Dorset College Dublin
+- 🎓 Studying **BSc in Computing** at Dorset College Dublin
 - 📚 Graduated in **Systems Analysis and Development** (ADS) at FMU
 - 🎯 Clean, accessible interfaces, reusable components and mobile performance
-- 🇮🇪 Living in Dublin, Ireland
+- 🇮🇪 Based in Dublin, open to developer roles across Europe
 
 ---
 
