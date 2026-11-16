@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/helenomatos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:helenovitor15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://heleno-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://portfolio.helenomatos.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <img src="https://img.shields.io/badge/📍_Dublin,_Ireland-1F2937?style=for-the-badge" alt="Dublin, Ireland"/>
 </p>
 
@@ -71,13 +71,13 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=helenomatoss&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=helenomatos&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helenomatoss/helenomatoss/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helenomatoss/helenomatoss/output/github-snake.svg"/>
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/helenomatoss/helenomatoss/output/github-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helenomatos/helenomatos/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helenomatos/helenomatos/output/github-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/helenomatos/helenomatos/output/github-snake.svg"/>
   </picture>
 </p>
